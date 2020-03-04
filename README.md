@@ -1,5 +1,7 @@
 # learnAES
 
+**加密方式：ECB **
+
 AES加密需要安装pycrytodome
 
 密钥需要128位 192位或256位
